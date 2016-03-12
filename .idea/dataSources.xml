@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3680497961">
+    <data-source source="LOCAL" name="manageEmployees:target:classes:hibernate.cfg.xml/Hibernate" uuid="9d41399f-3e4d-4728-841e-e53de6f08fb1">
+      <driver-ref>hsqldb.remote</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/manageEmployees/target/classes/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.hsqldb.jdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem:hibernatetutorial</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="manageEmployees:src:main:resources:hibernate.cfg.xml/Hibernate" uuid="1e01f7d1-0834-46eb-93e3-1d37a8f451b3">
+      <driver-ref>hsqldb.remote</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/manageEmployees/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.hsqldb.jdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem:hibernatetutorial</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>

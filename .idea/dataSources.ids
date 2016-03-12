@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="manageEmployees:target:classes:hibernate.cfg.xml/Hibernate" uuid="9d41399f-3e4d-4728-841e-e53de6f08fb1">
+    <database-info product="HSQL Database Engine" version="2.3.2" jdbc-version="4.0" driver-name="HSQL Database Engine Driver" driver-version="2.3.2">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact"/>
+    <schema name="PUBLIC" catalog="PUBLIC"/>
+  </data-source>
+  <data-source name="manageEmployees:src:main:resources:hibernate.cfg.xml/Hibernate" uuid="1e01f7d1-0834-46eb-93e3-1d37a8f451b3">
+    <database-info product="HSQL Database Engine" version="2.3.2" jdbc-version="4.0" driver-name="HSQL Database Engine Driver" driver-version="2.3.2">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact"/>
+    <schema name="PUBLIC" catalog="PUBLIC"/>
+  </data-source>
+</component>
